@@ -14,24 +14,21 @@ Liste os pacotes ou dependências necessários para execução:
 
 Instruções diretas sobre como clonar o repositório e configurar as permissões:
 
-# Clonar o repositório
-git clone [https://github.com/usuario/repositorio.git](https://github.com/usuario/repositorio.git)
+### ⚙️ Permissões e Instalação
 
-# Acessar o diretório
-cd repositorio
-
-# Conceder permissão de execução
-chmod +x script.sh
-
-
-## 🚀 Como Usar
-
-Exemplo visual ou demonstração da interface da ferramenta:
-
+Conceda permissão de execução aos scripts e instale as dependências do sistema:
 
 ```bash
-# Execução básica
-./script.sh alvo.com
+# Conceder permissão de execução
+chmod +x install.sh hackbot.sh
+
+# Executar a instalação das ferramentas
+./install.sh
+
+# Executar o script no alvo desejado
+./hackbot.sh alvo.com
+
+
 ```
 
 ## 📜 Licença
