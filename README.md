@@ -2,7 +2,7 @@
   <img src="hackbot.jpg" alt="HackBot Demo" width="600">
 </p>
 
-# HACKBOT
+
 
 Breve descrição do propósito da ferramenta e suas principais funcionalidades.
 
