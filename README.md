@@ -28,11 +28,10 @@ chmod +x script.sh
 
 Exemplo visual ou demonstração da interface da ferramenta:
 
-![Demonstração da Execução](docs/exemplo.png)
 
 ```bash
 # Execução básica
-./script.sh --opcao valor
+./script.sh alvo.com
 ```
 
 ## 📜 Licença
