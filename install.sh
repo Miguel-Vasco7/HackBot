@@ -39,4 +39,4 @@ fi
 echo "=========================================="
 echo "[x] Instalação concluída!"
 echo "[!] Dica: Execute 'source ~/.bashrc' se os comandos 'subfinder' ou 'httpx' não forem encontrados."
-echo "=========================================="
+echo "==========================================="
